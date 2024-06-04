@@ -18,6 +18,7 @@ brightnessctl 0.5.1-2
 btrfs-assistant 2.1.1-1
 btrfs-progs 6.8.1-1
 bzip2 1.0.8-6
+cbatticon 1.6.13-1
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20240306-1
 coreutils 9.5-1
