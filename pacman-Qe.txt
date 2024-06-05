@@ -112,6 +112,7 @@ i3status 2.14-1
 inetutils 2.5-1
 input-devices-support 1.0.2-2
 intel-ucode 20240531-1
+intellij-idea-community-edition 4:2024.1.2-1
 inxi 3.3.34.1-1
 iproute2 6.9.0-1
 iptables-nft 1:1.8.10-1
