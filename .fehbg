@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-fill '/usr/share/wallpapers/garuda-wallpapers/Animated.png'
+feh --no-fehbg --bg-fill "$HOME/.wallpapers/1717558281131229.jpg"
