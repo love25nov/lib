@@ -40,7 +40,6 @@ efibootmgr 18-3
 ethtool 1:6.7-1
 exfatprogs 1.2.3-1
 f2fs-tools 1.16.0-2
-fastfetch 2.14.0-1
 fatresize 1.1.0-1
 feh 3.10.2-1
 festival 2.5.0-5
