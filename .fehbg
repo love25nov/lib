@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-fill '/usr/share/wallpapers/garuda-wallpapers/Raptor SGS.png'
+feh --no-fehbg --bg-fill "$HOME/.wallpapers/6inbv9.png"
