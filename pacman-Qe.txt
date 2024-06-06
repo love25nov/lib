@@ -86,7 +86,6 @@ gettext 0.22.5-1
 glibc 2.39+r52+gf8e4623421-1
 gnome-firmware 46.0-1
 gnome-keyring 1:46.1-2
-gns3-gui 2.2.47-1
 gns3-server 2.2.47-1
 gnu-netcat 0.7.1-10
 gparted 1.6.0-1
