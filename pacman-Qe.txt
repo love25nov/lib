@@ -93,6 +93,7 @@ gnome-firmware 46.0-1
 gnome-keyring 1:46.1-2
 gnu-netcat 0.7.1-10
 gparted 1.6.0-1
+gptfdisk 1.0.10-1
 grep 3.11-1
 grub 2:2.12-2
 grub-btrfs 4.13-2
