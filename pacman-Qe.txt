@@ -11,7 +11,7 @@ azote 1.12.9-1
 b43-fwcutter 019-4
 base 3-2
 base-devel 1-1
-bash-completion 2.11-3
+bash-completion 2.14.0-1
 bash-language-server 5.3.4-1
 bind 9.18.27-1
 blueman 2.4.2-1
