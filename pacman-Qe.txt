@@ -126,6 +126,7 @@ inxi 3.3.34.1-1
 iproute2 6.9.0-1
 iptables-nft 1:1.8.10-1
 iputils 20240117-1
+jadx 1.5.0-1
 jfsutils 1.1.15-9
 jgmenu 4.4.1-1
 kitty 0.35.1-1
