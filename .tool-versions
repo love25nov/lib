@@ -5,3 +5,4 @@ kotlin 2.0.0
 python 3.12.3
 cmake 3.29.5
 java openjdk-22.0.1
+gradle 8.8
