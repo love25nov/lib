@@ -37,9 +37,12 @@ dosfstools 4.2-3
 downgrade 11.3.0-1.1
 dracut 102-1
 dunst 1.11.0-1
+dynamips 0.2.23-1
+dynamips-debug 0.2.23-1
 e2fsprogs 1.47.1-4
 ecryptfs-utils 111-8
 efibootmgr 18-3
+elfutils 0.191-3
 ethtool 1:6.7-1
 exfatprogs 1.2.3-1
 f2fs-tools 1.16.0-2
