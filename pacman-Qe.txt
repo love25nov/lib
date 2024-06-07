@@ -55,7 +55,7 @@ festival 2.5.0-5
 ffmpegthumbnailer 2.2.2-5
 file 5.45-1
 filesystem 2024.04.07-1
-findutils 4.9.0-3
+findutils 4.10.0-1
 firedragon 1:11.13.3-1.1
 firefox 126.0.1-1
 flameshot 12.1.0-3
