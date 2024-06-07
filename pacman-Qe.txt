@@ -234,6 +234,7 @@ traceroute 2.1.5-1
 ttf-dejavu 2.37+18+g9b5d1b2f-7
 ttf-fantasque-sans-mono 1.8.0-2
 ttf-fira-sans 1:4.301-2
+ttf-iosevkaterm-nerd 3.2.1-2
 ttf-liberation 2.1.5-1
 ttf-opensans 1.101-2
 tumbler 4.18.2-1
