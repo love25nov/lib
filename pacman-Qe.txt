@@ -140,6 +140,7 @@ libdvdcss 1.4.3-1
 libgsf 1.14.52-1
 libinput-gestures 2.76-1.2
 libopenraw 0.3.7-1
+libreoffice-still 7.6.7-1
 librsvg 2:2.58.1-1
 licenses 20240206-1
 lightdm 1:1.32.0-6
