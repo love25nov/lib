@@ -281,7 +281,7 @@ unace 2.5-11
 unarchiver 1.10.8-2
 unarj 2.65-1
 unrar 1:7.0.9-1
-unzip 6.0-20
+unzip 6.0-21
 update-grub 0.0.1-8
 usbutils 017-1
 util-linux 2.40.1-1
