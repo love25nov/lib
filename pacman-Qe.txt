@@ -147,7 +147,7 @@ licenses 20240206-1
 lightdm 1:1.32.0-6
 lightdm-settings 2.0.1-1
 lightdm-slick-greeter 2.0.4-1
-linux-firmware 20240510.b9d2bf23-1
+linux-firmware 20240610.9c10a208-1
 linux-zen 6.9.3.zen1-1
 linux-zen-headers 6.9.3.zen1-1
 logrotate 3.21.0-2
