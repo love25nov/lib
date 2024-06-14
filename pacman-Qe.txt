@@ -132,6 +132,7 @@ iputils 20240117-1
 jadx 1.5.0-1
 jfsutils 1.1.15-9
 jgmenu 4.4.1-1
+jq 1.7.1-2
 kitty 0.35.1-1
 kvantum 1.1.2-1
 kvantum-theme-qogir-git r122.faee271-1
