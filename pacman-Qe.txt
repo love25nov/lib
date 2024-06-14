@@ -236,6 +236,7 @@ snapper-tools 1.1.3-1.2
 sof-firmware 2024.03-1
 sshfs 3.7.3-1
 sudo 1.9.15.p5-1
+swig 4.2.1-3
 systemd 255.7-1
 systemd-sysvcompat 255.7-1
 tar 1.35-2
