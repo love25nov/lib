@@ -6,6 +6,7 @@ android-studio 2023.3.1.20-1
 arandr 0.1.11-3
 archlinux-xdg-menu 0.7.6.6-1
 arj 3.10.22-13
+astyle 3.4.13-1
 autorandr 1.15-1
 azote 1.12.9-1
 b43-fwcutter 019-4
