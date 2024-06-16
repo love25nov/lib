@@ -148,11 +148,11 @@ libreoffice-still 7.6.7-1
 librsvg 2:2.58.1-1
 licenses 20240206-1
 lightdm 1:1.32.0-6
-lightdm-settings 2.0.1-1
+lightdm-settings 2.0.3-1
 lightdm-slick-greeter 2.0.4-1
 linux-firmware 20240610.9c10a208-1
-linux-zen 6.9.3.zen1-1
-linux-zen-headers 6.9.3.zen1-1
+linux-zen 6.9.4.zen1-1
+linux-zen-headers 6.9.4.zen1-1
 logrotate 3.21.0-2
 lrzip 0.651-2
 lsb-release 2.0.r53.a86f885-1
