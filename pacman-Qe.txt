@@ -38,7 +38,7 @@ dmenu 5.3-3
 dmidecode 3.5-1
 dmraid 1.0.0.rc16.3-14
 docker 1:26.1.4-1
-docker-buildx 0.14.1-1
+docker-buildx 0.15.0-1
 docker-compose 2.27.1-1
 dosfstools 4.2-3
 downgrade 11.3.0-1.1
