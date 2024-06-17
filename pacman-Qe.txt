@@ -228,6 +228,7 @@ reflector-simple 3.3-1
 reiserfsprogs 3.6.27-4
 ripgrep 14.1.0-1
 ristretto 0.13.2-1
+rockyou 1.2.1-1
 rofi 1.7.5-2
 rsync 3.3.0-2
 sagemath 10.3-5
