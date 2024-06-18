@@ -3,7 +3,7 @@ tmux 3.4
 nodejs 22.2.0
 kotlin 2.0.0
 python 3.12.3
-cmake 3.29.5
+cmake 3.29.6
 java openjdk-22.0.1
 gradle 8.8
 perl 5.40.0
