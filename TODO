@@ -1,0 +1,1 @@
+- find -type l -lname '*3.29.5*' -exec bash -c "readlink {} | sed 's/3.29.5/3.29.6/' | xargs -I % ln -nsf % {}" \;
