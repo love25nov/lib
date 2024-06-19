@@ -241,8 +241,8 @@ sshfs 3.7.3-1
 stylua 0.20.0-3
 sudo 1.9.15.p5-1
 swig 4.2.1-3
-systemd 256-3
-systemd-sysvcompat 256-3
+systemd 256.1-1
+systemd-sysvcompat 256.1-1
 tar 1.35-2
 terminus-font 4.49.1-6
 texlive-basic 2024.2-2
