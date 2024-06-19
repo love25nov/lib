@@ -9,3 +9,4 @@ gradle 8.8
 perl 5.40.0
 shellcheck 0.10.0
 shfmt 3.8.0
+pnpm 9.4.0
