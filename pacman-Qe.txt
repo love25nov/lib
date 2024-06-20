@@ -163,7 +163,7 @@ lxrandr-gtk3 0.3.2-3
 lzip 1.24.1-1
 lzop 1.04-3
 man-db 2.12.1-1
-man-pages 6.9-1
+man-pages 6.9.1-1
 mdadm 4.3-2
 meld 3.22.2-3
 memtest86+ 7.00-1
