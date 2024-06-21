@@ -2,7 +2,7 @@ accountsservice 23.13.9-2
 alacritty 0.13.2-2
 alsa-firmware 1.2.4-3
 android-apktool 2.9.3-1
-android-studio 2023.3.1.20-1
+android-studio 2024.1.1.11-1
 arandr 0.1.11-3
 archlinux-xdg-menu 0.7.6.6-1
 arj 3.10.22-13
