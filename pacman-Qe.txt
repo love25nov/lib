@@ -190,6 +190,7 @@ noto-fonts-emoji 1:2.042-1
 nss-mdns 0.15.1-1
 ntfs-3g 2022.10.3-1
 numlockx 1.2-5
+obs-studio 30.1.2-2
 onboard 1.4.1-9
 os-prober-btrfs 1.79-5.1
 p7zip 1:17.05-2
