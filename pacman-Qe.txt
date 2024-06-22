@@ -151,7 +151,7 @@ librsvg 2:2.58.1-1
 licenses 20240206-1
 lightdm 1:1.32.0-6
 lightdm-settings 2.0.3-1
-lightdm-slick-greeter 2.0.4-1
+lightdm-slick-greeter 2.0.5-1
 linux-firmware 20240610.9c10a208-1
 linux-zen 6.9.5.zen1-1
 linux-zen-headers 6.9.5.zen1-1
