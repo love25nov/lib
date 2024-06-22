@@ -224,7 +224,7 @@ qogir-icon-theme-git 2023.06.05.r48.ge3fcd0a0-1
 qpdfview 0.5.0-3
 qt5-3d 5.15.14-1
 qt5ct 1.8-1
-rate-mirrors 0.17.1-1
+rate-mirrors 0.18.0-1
 reflector-simple 3.3-1
 reiserfsprogs 3.6.27-4
 ripgrep 14.1.0-1
