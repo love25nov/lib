@@ -175,7 +175,7 @@ mlocate 0.26.git.20170220-7
 modem-manager-gui 0.0.20-2
 mousepad 0.6.2-2
 mousetweaks 3.32.0-2
-mpv 1:0.38.0-4
+mpv 1:0.38.0-5
 mtools 1:4.0.44-1
 nano 8.0-1
 net-tools 2.10-2
