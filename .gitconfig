@@ -2,5 +2,6 @@
 	email = love25nov@outlook.com
 [alias]
 	lost = !git fsck --no-dangling --full && git submodule foreach --recursive git fsck --no-dangling --full && echo OK
+	find = !git log -S
 [core]
 	editor = nvim
