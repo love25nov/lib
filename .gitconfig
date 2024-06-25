@@ -3,5 +3,6 @@
 [alias]
 	lost = !git fsck --no-dangling --full && git submodule foreach --recursive git fsck --no-dangling --full && echo OK
 	find = log -S
+	graph = log --all --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s%Cgreen(%ci) %C(bold blue)<%an>%Creset'
 [core]
 	editor = nvim
