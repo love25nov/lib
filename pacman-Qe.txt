@@ -301,7 +301,7 @@ viewnior 1.8-5
 virt-manager 4.1.0-3
 volatility3 2.7.0-1
 websocat 1.13.0-1
-wget 1.24.5-2
+wget 1.24.5-3
 which 2.21-6
 whois 5.5.23-1
 wireless-regdb 2024.05.08-1
