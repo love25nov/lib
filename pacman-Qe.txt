@@ -232,7 +232,7 @@ ristretto 0.13.2-1
 rockyou 1.2.1-1
 rofi 1.7.5-2
 rsync 3.3.0-2
-sagemath 10.3-5
+sagemath 10.3-6
 sed 4.9-3
 selene 0.27.1-1
 shadow 4.15.1-2
