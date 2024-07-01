@@ -20,7 +20,7 @@ bridge-utils 1.7.1-2
 brightnessctl 0.5.1-2
 btop 1.3.2-1
 btrfs-assistant 2.1.1-1
-btrfs-progs 6.9-1
+btrfs-progs 6.9.2-1
 bzip2 1.0.8-6
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20240306-1
