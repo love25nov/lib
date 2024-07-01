@@ -220,7 +220,7 @@ pwndbg 2024.02.14-3
 python-cssselect 1.2.0-6
 qemu-base 9.0.1-1
 qogir-gtk-theme-git 2024.05.22.r5.g8899c63-1
-qogir-icon-theme-git 2023.06.05.r48.ge3fcd0a0-1
+qogir-icon-theme-git 2023.06.05.r49.ge5c804ee-1
 qpdfview 0.5.0-3
 qt5-3d 5.15.14-1
 qt5ct 1.8-1
