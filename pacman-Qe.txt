@@ -61,7 +61,7 @@ ffmpegthumbnailer 2.2.2-6
 file 5.45-1
 filesystem 2024.04.07-1
 findutils 4.10.0-1
-firefox 127.0.1-1
+firefox 127.0.2-1
 flameshot 12.1.0-3
 flashfocus-git 2.4.1.r1.gdbe7a36-1.1
 freetype2 2.13.2-1
