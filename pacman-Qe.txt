@@ -184,7 +184,7 @@ networkmanager-support 1-7
 nfs-utils 2.6.4-1
 nilfs-utils 2.2.11-1
 nmap 7.95-1
-noto-fonts 1:24.6.1-1
+noto-fonts 1:24.7.1-1
 noto-fonts-cjk 20230817-2
 noto-fonts-emoji 1:2.042-1
 nss-mdns 0.15.1-1
