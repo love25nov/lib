@@ -306,7 +306,7 @@ which 2.21-6
 whois 5.5.23-1
 wireless-regdb 2024.05.08-1
 wireless_tools 30.pre9-4
-wireplumber 0.5.3-1
+wireplumber 0.5.5-1
 wireshark-qt 4.2.5-2
 wmctrl 1.07-6
 wqy-zenhei 0.9.45-9
