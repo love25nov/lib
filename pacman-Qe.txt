@@ -230,13 +230,13 @@ reiserfsprogs 3.6.27-4
 ripgrep 14.1.0-1
 ristretto 0.13.2-1
 rockyou 1.2.1-1
-rofi 1.7.5-2
+rofi 1.7.5-3
 rsync 3.3.0-2
 sagemath 10.3-6
 sed 4.9-3
 selene 0.27.1-1
 shadow 4.15.1-2
-skippy-xd-git 2024.06.19.r1.g82599f7-1
+skippy-xd-git 2024.06.19.r16.g62e1e36-1
 snapper-support 1.1.2-3
 snapper-tools 1.1.3-1.2
 sof-firmware 2024.03-1
