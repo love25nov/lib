@@ -37,7 +37,7 @@ dialog 1:1.3_20240307-2
 dmenu 5.3-3
 dmidecode 3.5-1
 dmraid 1.0.0.rc16.3-14
-docker 1:27.0.2-1
+docker 1:27.0.3-1
 docker-buildx 0.15.1-1
 docker-compose 2.28.1-1
 dosfstools 4.2-3
