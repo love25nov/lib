@@ -50,12 +50,12 @@ e2fsprogs 1.47.1-4
 ecryptfs-utils 111-8
 efibootmgr 18-3
 elfutils 0.191-3
-entr 5.5-1
+entr 5.6-1
 ethtool 1:6.9-1
 exfatprogs 1.2.4-1
 f2fs-tools 1.16.0-2
-fatresize 1.1.0-1
-feh 3.10.2-1
+fatresize 1.1.0-2
+feh 3.10.3-1
 festival 2.5.0-5
 ffmpegthumbnailer 2.2.2-6
 file 5.45-1
