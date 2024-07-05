@@ -22,6 +22,8 @@ btop 1.3.2-1
 btrfs-assistant 2.1.1-1
 btrfs-progs 6.9.2-1
 bzip2 1.0.8-6
+cadaver 0.24-1
+cbatticon 1.6.13-1
 chaotic-keyring 20230616-1
 chaotic-mirrorlist 20240306-1
 chromium 126.0.6478.126-1
