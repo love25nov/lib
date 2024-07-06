@@ -127,6 +127,7 @@ i3-wm 4.23-4
 i3blocks 1.5-4
 i3lock 2.15-2
 i3status 2.14-1
+ifuse 1.1.4-4
 inetutils 2.5-1
 input-devices-support 1.0.2-2
 intel-ucode 20240531-1
