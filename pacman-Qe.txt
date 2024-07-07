@@ -160,7 +160,7 @@ linux-zen 6.9.7.zen1-1
 linux-zen-headers 6.9.7.zen1-1
 logrotate 3.21.0-2
 lrzip 0.651-3
-lsb-release 2.0.r53.a86f885-1
+lsb-release 2.0.r53.a86f885-2
 lvm2 2.03.24-1
 lxappearance-gtk3 0.6.3-4
 lxinput-gtk3 0.3.5-3
