@@ -303,6 +303,8 @@ usbutils 017-1
 util-linux 2.40.1-1
 vi 1:070224-6
 viewnior 1.8-5
+vim 9.1.0496-1
+vim-runtime 9.1.0496-1
 virt-manager 4.1.0-3
 volatility3 2.7.0-1
 websocat 1.13.0-1
