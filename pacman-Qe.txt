@@ -220,8 +220,11 @@ pragha 1.3.4-6
 procps-ng 4.0.4-3
 psmisc 23.7-1
 pwndbg 2024.02.14-3
+pyenv 1:2.4.5-1
 python-cssselect 1.2.0-6
 qemu-base 9.0.1-1
+qemu-chardev-spice 9.0.1-1
+qemu-hw-usb-host 9.0.1-1
 qogir-gtk-theme-git 2024.05.22.r5.g8899c63-1
 qogir-icon-theme-git 2023.06.05.r49.ge5c804ee-1
 qpdfview 0.5.0-3
