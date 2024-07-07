@@ -133,8 +133,8 @@ input-devices-support 1.0.2-2
 intel-ucode 20240531-1
 intellij-idea-community-edition 4:2024.1.4-1
 inxi 3.3.35.1-1
-iproute2 6.9.0-1
-iptables-nft 1:1.8.10-1
+iproute2 6.9.0-2
+iptables-nft 1:1.8.10-2
 iputils 20240117-1
 jadx 1.5.0-1
 jfsutils 1.1.15-9
