@@ -281,7 +281,6 @@ thunar-archive-plugin 0.5.2-1
 thunar-media-tags-plugin 0.4.0-2
 thunar-volman 4.18.0-1
 tint2 17.0.2-4
-tinyxxd 1.3.3-1
 tixati 3.25-1
 traceroute 2.1.5-1
 ttf-dejavu 2.37+18+g9b5d1b2f-7
