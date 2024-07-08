@@ -292,6 +292,8 @@ ttf-liberation 2.1.5-1
 ttf-opensans 1.101-2
 ttyper 1.5.0-1
 tumbler 4.18.2-1
+ubridge 0.9.18-1
+ubridge-debug 0.9.18-1
 ufw 0.36.2-4
 ugrep 6.1.0-1
 unace 2.5-11
