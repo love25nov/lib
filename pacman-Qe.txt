@@ -325,7 +325,7 @@ wqy-zenhei 0.9.45-9
 xarchiver 0.5.4.23-1
 xautolock 2.2-6
 xbindkeys 1.8.7-4
-xcape 1.2-4
+xcape 1.2-5
 xdg-desktop-portal 1.18.4-1
 xdg-desktop-portal-gtk 1.15.1-2
 xdg-user-dirs 0.18-1
