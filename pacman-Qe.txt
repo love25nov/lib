@@ -9,7 +9,7 @@ arj 3.10.22-13
 astyle 3.4.13-1
 autorandr 1.15-1
 azote 1.12.9-1
-b43-fwcutter 019-4
+b43-fwcutter 019-5
 base 3-2
 base-devel 1-1
 bash-completion 2.14.0-2
