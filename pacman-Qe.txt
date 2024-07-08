@@ -38,7 +38,7 @@ dex 0.9.0-2
 dialog 1:1.3_20240619-2
 dmenu 5.3-3
 dmidecode 3.6-1
-dmraid 1.0.0.rc16.3-14
+dmraid 1.0.0.rc16.3-15
 docker 1:27.0.3-1
 docker-buildx 0.15.1-1
 docker-compose 2.28.1-1
